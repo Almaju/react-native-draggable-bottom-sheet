@@ -1,0 +1,26 @@
+{
+  "name": "react-native-draggable-bottom-sheet",
+  "version": "1.0.0",
+  "description": "Google Maps like draggable bottom sheet to display more content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ./src"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "prop-types": "^15.0 || ^16.0",
+    "react": ">= 16.0 || < 17.0",
+    "react-native": ">= 0.51"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.15.3",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.12.2",
+    "eslint-plugin-react-native": "^3.5.0"
+  }
+}
